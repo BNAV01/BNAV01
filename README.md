@@ -11,7 +11,7 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 
 
 <p align="center">
-  <a href="benjamin.navarretemiranda@gmail.com">Contact</a> | <a href="https://instagram.com/young.percebe\utm_medium=copy_link">Instagram</a> | <a href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">LinkedIN</a>
+  <a href="benjamin.navarretemiranda@gmail.com">Contact</a> | <a href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">LinkedIN</a>
 </p>
 
 ## Personal Details
