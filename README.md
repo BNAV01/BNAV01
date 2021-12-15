@@ -46,11 +46,11 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 ## Skills
 
 - Basic level Java Software management
-- Basic level SQL handling
-- Handling of Python3 basic level
-- Microsoft Office basic level. 
+- Medium level SQL handling
+- Handling of Python3 intermediate level
+- Microsoft Office medium level. 
 - Linux Distributions
-  - Ubuntu 18.04 intermedium level.
+  - Handling of Ubuntu 18.04 intermediate level (for servers).
   - Kali 2020.4 basic level.
 - Basic English level
 ## Other Information
