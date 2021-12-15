@@ -52,4 +52,8 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - Linux Distributions
   - Ubuntu 18.04 intermedium level.
   - Kali 2020.4 basic level.
+- Basic English level
+## Other Information
 
+*I am a punctual person, who stands out for his humility and affability to relate to
+persons. I seek within my work to develop new ways to solve problems, administer services and manage servers.*
