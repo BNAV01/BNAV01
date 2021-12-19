@@ -55,5 +55,4 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - Basic English level
 ## Other Information
 
-*I am a punctual person, who stands out for his humility and affability to relate to
-persons. I seek within my work to develop new ways to solve problems, administer services and manage servers.*
+- *I am a punctual person, who stands out for his humility and affability to relate to persons. I seek within my work to develop new ways to solve problems, administer services and manage servers.*
