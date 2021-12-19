@@ -40,8 +40,8 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - 2020 - 2020 Programming in JAVA. *Universidad de Chile* in alliance with Accenture.
 - 2020 - 2020 Participating in the "Formación y Trabajo" Program. Forge Chile Foundation.
   - Development of socio-emotional skills and employability skills
-- 2016-2019 Middle Education. New Little Collegue.
-
+- 2016 - 2019 Middle Education. New Little Collegue.
+- 2021 - Present Civil Eng. in computer science and telecommunications. *Universidad Finis Terrae*
 
 ## Skills
 
