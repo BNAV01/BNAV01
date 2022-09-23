@@ -21,7 +21,7 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - Years : 20
 - RUT: 20.824.875-8
 - Nacionality: Chilean
-- Civil State: Single
+- Civil State: Relationship
 
 ## Career objective / Profile 
 
