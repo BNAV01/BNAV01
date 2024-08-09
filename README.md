@@ -11,7 +11,7 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 
 
 
-<center><img src="https://www.codewars.com/users/BNAV01/badges/large" alt="CodeWars Points" height="50" width="350" style="border-radius:100%" all/></center>
+<img src="https://www.codewars.com/users/BNAV01/badges/large" aling="center" alt="CodeWars Points" height="50" width="350" style="border-radius:100%" all/>
 
 <p align="center">
   <a href="benjamin.navarretemiranda@gmail.com">Contact</a> | <a href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">LinkedIN</a>
