@@ -14,14 +14,14 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 <img src="https://www.codewars.com/users/BNAV01/badges/large" aling="center" alt="CodeWars Points" height="50" width="350" style="border-radius:100%" all/>
 
 <p align="center">
-  <a href="benjamin.navarretemiranda@gmail.com">Contact</a> | <img src="https://drive.google.com/u/0/drive-viewer/AKGpihYUZ1CWNroiF2cjUWH4TofU7YlR9IouMnDhYZU3mUC7NxTWyinMjolOpEoSBhl-HwTVEqE7quUoHdrJzci4CsRSsLjPd_Tq9hI=s1600-rw-v1" height="45" width="45" style="border-radius:100%" href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">  LinkedIN</a>
+  <a href="benjamin.navarretemiranda@gmail.com">Contact</a> | <a href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">LinkedIN</a>
 </p>
 
 ## Personal Details
 
 - Names: Benjamin Eduardo 
 - Lasts Names: Navarrete Miranda
-- Years : 22
+- Years : 23
 - RUT: 20.824.875-8
 - Nacionality: Chilean
 - Civil State: Relationship
