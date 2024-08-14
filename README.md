@@ -1,3 +1,11 @@
+
+<script>
+  const birthYear = 2001; // Replace with your birth year
+  const currentYear = new Date().getFullYear();
+  const age = currentYear - birthYear;
+  document.getElementById("age").textContent = "Age: " + age;
+</script>
+
 <br>
 <a>
 <p align="center">
@@ -21,7 +29,7 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 
 - Names: Benjamin Eduardo 
 - Lasts Names: Navarrete Miranda
-- Years : 23
+- <p id="age"></p>
 - RUT: 20.824.875-8
 - Nacionality: Chilean
 - Civil State: Relationship
@@ -55,6 +63,7 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - Linux Distributions
   - Handling of Ubuntu 18.04 LTS intermediate level (for servers).
   - Kali 2020.4 basic level.
+  - Handling of Ubuntu 24.04 LTS Desktop intermediate level (personal pourpose).
 - Basic English level
 ## Other Information
 
