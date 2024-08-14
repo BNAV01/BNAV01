@@ -15,21 +15,18 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
   <a href="benjamin.navarretemiranda@gmail.com">Contact</a> | <a href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">LinkedIN</a>
 </p>
 
-## Personal Details
+{% assign birth_year = 2001 %}
+{% assign current_year = site.time | date: "%Y" %}
+{% assign age = current_year | minus: birth_year %}
 
+## Personal Details
 - Names: Benjamin Eduardo 
 - Lasts Names: Navarrete Miranda
-- Age: <span id="age"></span>
+- Age: {{ age }}
 - RUT: 20.824.875-8
 - Nacionality: Chilean
 - Civil State: Relationship
 
-<script>
-  const birthYear = 2001; // Replace with your birth year
-  const currentYear = new Date().getFullYear();
-  const age = currentYear - birthYear;
-  document.getElementById("age").textContent = age;
-</script>
 
 ## Career objective / Profile 
 
