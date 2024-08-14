@@ -1,11 +1,3 @@
-
-<script>
-  const birthYear = 2001; // Replace with your birth year
-  const currentYear = new Date().getFullYear();
-  const age = currentYear - birthYear;
-  document.getElementById("age").textContent = "Age: " + age;
-</script>
-
 <br>
 <a>
 <p align="center">
@@ -17,8 +9,6 @@
 Student in IT and Telecommunications Civil Eng.👨‍💻
 </p>
 
-
-
 <img src="https://www.codewars.com/users/BNAV01/badges/large" aling="center" alt="CodeWars Points" height="50" width="350" style="border-radius:100%" all/>
 
 <p align="center">
@@ -29,22 +19,27 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 
 - Names: Benjamin Eduardo 
 - Lasts Names: Navarrete Miranda
-- <p id="age"></p>
+- Age: <span id="age"></span>
 - RUT: 20.824.875-8
 - Nacionality: Chilean
 - Civil State: Relationship
+
+<script>
+  const birthYear = 2001; // Replace with your birth year
+  const currentYear = new Date().getFullYear();
+  const age = currentYear - birthYear;
+  document.getElementById("age").textContent = age;
+</script>
 
 ## Career objective / Profile 
 
 - I want to be part of the success in an environment of growth and excellence
 - I want a highly rewarding job where I can use my skills and knowledge to help the company and my coworkers be successful
 
-
 ## Work Experience
 
 - Dec. 2018 to Dec. 2019 Ticket validator. TicketPlus.
   - Functions: Validate tickets to allow or deny people access to a specific event.
-
 
 ## Education
 
@@ -63,8 +58,9 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - Linux Distributions
   - Handling of Ubuntu 18.04 LTS intermediate level (for servers).
   - Kali 2020.4 basic level.
-  - Handling of Ubuntu 24.04 LTS Desktop intermediate level (personal pourpose).
+  - Handling of Ubuntu 24.04 LTS Desktop intermediate level (personal purpose).
 - Basic English level
+
 ## Other Information
 
 - *I am a punctual person, who stands out for his humility and affability to relate to persons. I seek within my work to develop new ways to solve problems, administer services and manage servers.*
