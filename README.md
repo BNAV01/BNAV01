@@ -1,7 +1,7 @@
 <br>
 <a>
 <p align="center">
-<img src="https://efinis.uft.cl/app/upload/users/9/94588/big_94588_6043c78cf1bab_fczxgz-profile-image.jpg?rand=61b9d232e2c5f" alt="Me :D" height="150" width="150" style="border-radius:100%"/>
+<img src="https://efinis.uft.cl/app/upload/users/9/94588/big_94588_66c3a5bbc0e68_IMG_20240815_205953.jpg?rand=66c3a5bc65085" alt="Me :D" height="150" width="150" style="border-radius:100%"/>
 </a>
 </p>
 <h2> Junior Dev</h2>
