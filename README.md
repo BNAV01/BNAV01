@@ -34,8 +34,6 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 
 - Aug. 2024 to Actuallity Assistant of university subject Software Engineering
   - Functions: Conduct classes to students regarding software development focused on fullstack, using scrum methodology.
-- Dec. 2018 to Dec. 2019 Ticket validator. TicketPlus.
-  - Functions: Validate tickets to allow or deny people access to a specific event.
 
 ## Education
 
