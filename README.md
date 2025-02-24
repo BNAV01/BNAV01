@@ -32,9 +32,10 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 
 ## Work Experience
 
-- Aug. 2024 to Actuallity Assistant of university subject Software Engineering
+- Aug. 2024 to Dec. 2024 Assistant of university subject Software Engineering
   - Functions: Conduct classes to students regarding software development focused on fullstack, using scrum methodology.
-
+- Nov. 2024 to Actually Software developer and team leader (one person c: ) for the creation of management control app, resources and business files for the MIGA foundation in Chile.
+  - Functions: Lead my team (of one person, I repeat) for the development applying agile SCRUM methodologies, develop the BackEnd, create and design the database model to be used and review the FrontEnd development, server configuration with linux distribution, set up security using iptables, ufw, fail2ban, etc, and deploy to production using docker.
 ## Education
 
 - 2020 - 2020 Programming in JAVA. *Universidad de Chile* in alliance with Accenture.
