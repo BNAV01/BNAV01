@@ -20,7 +20,6 @@ Student in IT and Telecommunications Civil Eng.👨‍💻
 - Names: Benjamin Eduardo 
 - Lasts Names: Navarrete Miranda
 - Age: 23
-- RUT: 20.824.875-8
 - Nacionality: Chilean
 - Civil State: Relationship
 
