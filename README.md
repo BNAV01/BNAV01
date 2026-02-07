@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:benjamin.navarretemiranda@gmail.com">benjamin.navarretemiranda@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/benjamín-navarrete-miranda-07613a144/">LinkedIn</a> ·
+  <a href="mailto:bnavm01@gmail.com">bnav01@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/bnav01//">LinkedIn</a> ·
   <a href="https://www.codewars.com/users/BNAV01">Codewars</a>
 </p>
 
