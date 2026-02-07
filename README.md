@@ -24,9 +24,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Real%20time%20systems%20%7C%20Security%20%7C%20Auditability-111827" alt="Focus badge" />
+  <br>
   <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Spring%20Security%20%7C%20JWT-16a34a" alt="Backend badge" />
+  <br>
   <img src="https://img.shields.io/badge/Frontend-Angular%20%7C%20PrimeNG%20%7C%20Tailwind-7c3aed" alt="Frontend badge" />
-  <img src="https://img.shields.io/badge/Infra-Linux%20%7C%20Docker%20%7C%20Nginx%20%7C-0ea5e9" alt="Infra badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Infra-Linux%20%7C%20Docker%20%7C%20Nginx%20-0ea5e9" alt="Infra badge" />
 </p>
 
 <hr/>
